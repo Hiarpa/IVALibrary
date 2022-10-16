@@ -1,0 +1,21 @@
+* {
+position: absolute;
+width: 1366px;
+height: 1030px;
+left: 0px;
+top: 0px;
+
+/* Light -1 */
+
+background: #F8FAFF;
+
+
+/* Nav bar */
+
+
+position: absolute;
+width: 1366px;
+height: 100px;
+left: 0px;
+top: 0px;
+}
